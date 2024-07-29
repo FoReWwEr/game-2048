@@ -1,12 +1,20 @@
-# Base Layout Template
+# 2048 Game 🎮
+Welcome to the 2048 Game project! 
+This classic puzzle game challenges players to combine tiles with the same number to reach the elusive 2048 tile. 
+The game is designed to be engaging and intuitive, offering endless fun with simple mechanics.
 
-# Project Description
-This project is a base layout template for the "2048" game, developed using modern tools and technologies to ensure efficient development and maintenance. The primary technologies used in the project include HTML for page structure, JavaScript for game logic, SCSS for styling, and Stylelint for code quality checking.
+# 🌟 Built With
+1) **HTML**: The structure of the game interface.
+2) **CSS**: Styling to ensure a polished and appealing visual experience.
+3) **JavaScript**: The logic behind the game mechanics and interactions.
 
-# Technologies
-1) HTML: A markup language used for creating the structure and content of web pages.
-2) JavaScript: A programming language used to implement the game logic and interactivity.
-3) SCSS (Sass): A CSS preprocessor that allows the use of variables, nested rules, mixins, functions, and other features for more convenient and efficient styling.
-4) Stylelint: A tool for analyzing and checking CSS/SCSS code for compliance with standards and rules, helping to maintain clean and quality code.
+# 💡 Inspiration
+The 2048 game is inspired by the popular 2048 puzzle game created by Gabriele Cirulli.
+
+# 🚀 Getting Started
+1) **Repository Clone**: git clone https://github.com/FoReWwEr/game-2048.git
+2) **Navigate to Project Directory**: cd game-2048
+3) **Dependencies Installation**: npm install
+4) **Development Server**: npm start
 
 # [DEMO LINK](https://forewwer.github.io/game-2048/)
