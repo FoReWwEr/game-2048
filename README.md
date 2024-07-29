@@ -5,7 +5,7 @@ The game is designed to be engaging and intuitive, offering endless fun with sim
 
 # 🌟 Built With
 1) **HTML**: The structure of the game interface.
-2) **CSS**: Styling to ensure a polished and appealing visual experience.
+2) **SCSS**: A powerful CSS preprocessor for more maintainable and modular styling.
 3) **JavaScript**: The logic behind the game mechanics and interactions.
 
 # 💡 Inspiration
